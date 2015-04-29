@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+.title {
+  background-color: #C1D8E8;
+  margin: 0 auto;
+  width: 550px;
+  box-shadow: 2px 2px 1px gray;
+}
+
+.dealership {
+  width: 30%;
+  margin: 0 auto;
+}
+
+
+a {
+  font-size: 22px;
+}
+
+a:hover {
+  text-decoration:none;
+}
